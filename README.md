@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Chikeziri Noel Ohaeri. I am a 100% Self-taught Software engineer, highly motivated with a willingness to improve!
 <!--
 **Damvilion/Damvilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
