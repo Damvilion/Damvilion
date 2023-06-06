@@ -1,5 +1,5 @@
 ### Welcome!👋 My name is Chikeziri Noel Ohaeri
-I am a 100% Self-taught Software engineer, highly motivated with a willingness to improve!
+I am a 100% Self-taught Software engineer, highly motivated with a commitment to learning and growth
 
 🌱 I’m currently on a Full Stack developer path!  check => https://roadmap.sh/full-stack <br>
 💬 Ask me about: What got me into web development! <br>
