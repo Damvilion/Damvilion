@@ -5,6 +5,9 @@ I am a 100% Self-taught Software engineer, highly motivated with a willingness t
 💬 Ask me about: What got me into web development! <br>
 📫 reach me at: noelohaeri@gmail.com <br>
 ⚡ Fun fact: A way to my heart is through my belly! ps I go crazy for breakfast food. <br>
+💪 Skills: <br>
+React, TailWind, JavaScript (ES6+), TypeScript, Git, Python etc...
+
 <!--
 **Damvilion/Damvilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
