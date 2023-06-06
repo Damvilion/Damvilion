@@ -1,10 +1,10 @@
 ### Welcome!👋 My name is Chikeziri Noel Ohaeri
 I am a 100% Self-taught Software engineer, highly motivated with a willingness to improve!
 
-🌱 I’m currently on a Full Stack developer path!  check => https://roadmap.sh/full-stack
-💬 Ask me about: What got me into web development
-📫 reach me at: noelohaeri@gmail.com
-⚡ Fun fact: A way to my heart is through my belly! ps I go crazy for breakfast food.
+🌱 I’m currently on a Full Stack developer path!  check => https://roadmap.sh/full-stack <br>
+💬 Ask me about: What got me into web development! <br>
+📫 reach me at: noelohaeri@gmail.com <br>
+⚡ Fun fact: A way to my heart is through my belly! ps I go crazy for breakfast food. <br>
 <!--
 **Damvilion/Damvilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
