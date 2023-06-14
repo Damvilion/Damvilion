@@ -2,11 +2,11 @@
 I am a 100% Self-taught Software engineer born in Lagos, Nigeria. I am highly motivated with a commitment to learning and growth
 
 🌱 I’m currently on a Full Stack developer path!  check => https://roadmap.sh/full-stack <br>
-💬 Ask me about: What got me into web development! <br>
-📫 reach me at: noelohaeri@gmail.com <br>
+💬 Ask me about What got me into web development! <br>
+📫 Reach me at: noelohaeri@gmail.com <br>
 ⚡ Fun fact: A way to my heart is through my belly! ps I go crazy for breakfast food. <br>
 💪 Skills: <br>
-React, TailWind, JavaScript (ES6+), TypeScript, Git, Python etc...
+React, TailWind, JavaScript (ES6+), TypeScript, Git, Python, etc...
 
 <!--
 **Damvilion/Damvilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
