@@ -6,7 +6,7 @@ I am a 100% Self-taught Software engineer born in Lagos, Nigeria. I am highly mo
 📫 Reach me at: noelohaeri@gmail.com <br>
 ⚡ Fun fact: A way to my heart is through my belly! ps I go crazy for breakfast food. <br>
 💪 Skills: <br>
-React, TailWind, JavaScript (ES6+), TypeScript, Git, Python, Java, C++ etc... <br>
+React, React Native, TailWind, JavaScript (ES6+), TypeScript, Git, Python, Java, C++ etc... <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
